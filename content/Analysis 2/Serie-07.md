@@ -6,7 +6,7 @@ draft: false
 
 # Aufgabe 1
 
-- {{< details >}} Dafür benötigt ihr den Satz zur Ableitung der Umkehrfunktion (s. Skript). {{</ details >}}
+- {{< details >}} Dafür benötigt ihr den Satz zur Ableitung der Umkehrfunktion (siehe Skript). {{</ details >}}
 
 # Aufgabe 2
 
