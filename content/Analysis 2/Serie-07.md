@@ -16,7 +16,7 @@ draft: false
 
 - {{< details >}} Zwischenwertsatz {{</ details >}}
 
-- {{< details >}} ... auf die Funktion $$x \mapsto f(x) \cdot \int_a^b g ~dx \,.$$ {{</ details >}}
+- {{< details >}} ... auf die Funktion $$x \mapsto f(x) \cdot \int_a^b g(y) ~dy \,.$$ {{</ details >}}
 
 # Aufgabe 4
 
